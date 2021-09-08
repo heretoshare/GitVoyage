@@ -8,6 +8,7 @@ namespace GitVoyage
  {
  Console.WriteLine("Hello World!");
  Concole.WriteLine("Just added this from Visual Studio");
+ Concole.WriteLine("Added to command line repo");
  }
  }
 }
