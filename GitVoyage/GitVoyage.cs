@@ -7,6 +7,7 @@ namespace GitVoyage
  static void Main(string[] args)
  {
  Console.WriteLine("Hello World!");
+ Concole.WriteLine("Just added this from Visual Studio");
  }
  }
 }
