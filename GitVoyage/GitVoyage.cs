@@ -13,3 +13,10 @@ namespace GitVoyage
  }
  }
 }
+
+namespace GitVoyage{
+
+public class Game {
+
+}
+}
